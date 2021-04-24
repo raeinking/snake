@@ -1,18 +1,7 @@
-    * {
-        font-family:helvetica;
-        text-align: center;
-    }
-
-    .header {
-        font-size: 40px;
-        margin: 15px
-
-
-    }
-
-    .main {
-        width: 400px;
-        height: 400px;
-        border: 2px solid;
-        margin: 15px;
-    }
+body {
+    text-align:center;
+    font-family: helvetica;
+  }
+  canvas {
+    border: 2px solid rgb(151, 149, 149)
+  }
